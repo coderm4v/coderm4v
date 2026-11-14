@@ -41,9 +41,11 @@
 
 ### 📊 Thống kê
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coderm4v&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderm4v&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderm4v&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=coderm4v&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center"><i>“Code để giải quyết chuyện thật, cho người thật.”</i></p>
